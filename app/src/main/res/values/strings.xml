@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">English Learning for Kids</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_menu">Menu</string>
+    <string name="activity_alphabet">Huruf(Alphabet)</string>
+    <string name="activity_numbers">Angka (Numbers)</string>
+    <string name="activity_gamenumbers">Your Score:</string>
+    <string name="ContentImagen">This is a imagen</string>
+    <string name="toMainMenu">Menu</string>
+    <string name="activity_learningnumbers">Learning Number</string>
+    <string name="activity_learningalphabet">Learning Alphabet</string>
+    <string name="activity_learningbuah">Learning Fruit</string>
+    <string name="activity_learning_warna">Learning Colour</string>
+    <string name="activity_learningfamily">Learning Gamily</string>
+    <string name="next_numbers">Next</string>
+    <string name="activity_game">Game</string>
+    <string name="activity_onetothen">1 TO 10</string>
+    <string name="activity_thentotwinty">10 TO 20</string>
+    <string name="activity_twintytoonehan">20 TO 100</string>
+    <string name="admob_id_banner">Pasim - Alfath</string>
+    <string name="admob_id_intt">YOUR AdMob Interstetial </string>
+    <string name="activity_buah">Buah</string>
+</resources>

@@ -1,0 +1,237 @@
+package com.example.kids;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.media.MediaPlayer;
+import android.os.Bundle;
+import android.view.KeyEvent;
+import android.view.View;
+
+public class LearningalphabetActivity extends Activity {
+	MediaPlayer mediaPlayer;
+	private InterstitialAd interstitial;
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_learningalphabet);
+		// Buscar AdView como recurso y cargar una solicitud.
+		AdView adView = (AdView) this.findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		adView.loadAd(adRequest);
+		// Intersetial.
+		interstitial = new InterstitialAd(this);
+		interstitial.setAdUnitId(getString(R.string.admob_id_intt));
+		AdRequest adRequestInterstitial = new AdRequest.Builder().build();
+		interstitial.loadAd(adRequestInterstitial);
+	}
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		if (keyCode == KeyEvent.KEYCODE_BACK) {
+			Intent intent = new Intent(this, MenuActivity.class);
+			startActivity(intent);
+			this.finish();
+			return true;
+		}
+		return super.onKeyDown(keyCode, event);
+	}
+	public void onMainClick(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		Intent intent = new Intent(this, MenuActivity.class);
+		startActivity(intent);
+		displayInterstitial();
+		this.finish();
+	}
+
+	public void onButton1Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.aa);
+		mediaPlayer.start();
+	}
+
+	public void onButton2Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.bb);
+		mediaPlayer.start();
+	}
+
+	public void onButton3Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.cc);
+		mediaPlayer.start();
+	}
+
+	public void onButton4Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.dd);
+		mediaPlayer.start();
+	}
+
+	public void onButton5Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ee);
+		mediaPlayer.start();
+	}
+
+	public void onButton6Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ff);
+		mediaPlayer.start();
+	}
+
+	public void onButton7Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.gg);
+		mediaPlayer.start();
+	}
+
+	public void onButton8Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.hh);
+		mediaPlayer.start();
+	}
+
+	public void onButton9Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ii);
+		mediaPlayer.start();
+	}
+
+	public void onButton10Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.jj);
+		mediaPlayer.start();
+	}
+
+	public void onButton11Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.kk);
+		mediaPlayer.start();
+	}
+
+	public void onButton12Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ll);
+		mediaPlayer.start();
+	}
+
+	public void onButton13Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.mm);
+		mediaPlayer.start();
+	}
+
+	public void onButton14Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.nn);
+		mediaPlayer.start();
+	}
+
+	public void onButton15Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.oo);
+		mediaPlayer.start();
+	}
+
+	public void onButton16Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.pp);
+		mediaPlayer.start();
+	}
+
+	public void onButton17Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.qq);
+		mediaPlayer.start();
+	}
+
+	public void onButton18Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.rr);
+		mediaPlayer.start();
+	}
+
+	public void onButton19Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ss);
+		mediaPlayer.start();
+	}
+
+	public void onButton20Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.tt);
+		mediaPlayer.start();
+	}
+	public void onButton21Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.uu);
+		mediaPlayer.start();
+	}
+	public void onButton22Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.vv);
+		mediaPlayer.start();
+	}
+	public void onButton23Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.ww);
+		mediaPlayer.start();
+	}
+	public void onButton24Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.xx);
+		mediaPlayer.start();
+	}
+	public void onButton25Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.yy);
+		mediaPlayer.start();
+	}
+	public void onButton26Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.zz);
+		mediaPlayer.start();
+	}
+	public void onNextClick(View view){
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		Intent intent = new Intent(this, ThentotwintyActivity.class);
+		startActivity(intent);
+		this.finish();
+		
+	}
+	public void displayInterstitial() {
+		if (interstitial.isLoaded()) {
+			interstitial.show();
+		}
+	}
+}

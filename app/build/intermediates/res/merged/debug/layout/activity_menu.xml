@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+
+    <Button
+        android:id="@+id/learningbtn"
+        android:layout_height="50dp"
+        android:background="@drawable/exit2"
+        android:onClick="Metu"
+        android:layout_width="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginBottom="11dp" />
+
+    <Button
+        android:id="@+id/numbersbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numbers_icon"
+        android:onClick="numbClick"
+        android:layout_alignBottom="@+id/btnbuah"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="72dp" />
+
+    <Button
+        android:id="@+id/alphabetbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/alphabets_icon"
+        android:onClick="alphClick"
+        android:layout_above="@+id/numbersbtn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="17dp" />
+
+    <Button
+        android:id="@+id/btnbuah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numbers_icon"
+        android:onClick="BuahClick"
+        android:visibility="visible"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnwarna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numbers_icon"
+        android:onClick="WarnaClick"
+        android:visibility="visible"
+        android:layout_alignBaseline="@+id/alphabetbtn"
+        android:layout_alignBottom="@+id/alphabetbtn"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btnkeluarga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numbers_icon"
+        android:onClick="KeluargaClick"
+        android:visibility="visible"
+        android:layout_alignBaseline="@+id/numbersbtn"
+        android:layout_alignBottom="@+id/numbersbtn"
+        android:layout_alignLeft="@+id/btnwarna"
+        android:layout_alignStart="@+id/btnwarna" />
+
+</RelativeLayout>

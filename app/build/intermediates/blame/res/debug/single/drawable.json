@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakek.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\kakek.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixthenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sixthenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jeruk.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\jeruk.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hitam.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\hitam.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_top_header.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\calendar_top_header.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\utilaceptar.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\utilaceptar.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\therthen.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\therthen.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selefante.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\selefante.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleon.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sleon.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivethenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\fivethenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightthenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\eightthenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sardilla.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sardilla.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twintyy.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\twintyy.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ibu.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ibu.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twinty.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\twinty.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eighty.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\eighty.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anggur.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\anggur.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forty.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\forty.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sserpiente.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sserpiente.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apel.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\apel.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroberi.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\stroberi.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hijau.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\hijau.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spaloma.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\spaloma.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_tile.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\calendar_tile.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\svaca.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\svaca.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mbak.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\mbak.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onehandred.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\onehandred.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coklat.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\coklat.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twilve.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\twilve.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forthenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\forthenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sgato.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sgato.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\threety.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\threety.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seventy.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\seventy.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kuning.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\kuning.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_bar.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\calendar_bar.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pisang.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\pisang.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sfoca.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sfoca.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scerdo.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\scerdo.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nenek.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\nenek.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\biru.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\biru.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninthenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ninthenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sixty.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sixty.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\putih.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\putih.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\utilfondobotonz.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\utilfondobotonz.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soveja.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\soveja.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sburro.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sburro.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo8.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\fondo8.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kids_learningback.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\kids_learningback.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ninety.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ninety.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fivety.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\fivety.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pink.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\pink.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nanas.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\nanas.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smono.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\smono.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sperro.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sperro.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\myboton.xml",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\myboton.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\no.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ungu.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ungu.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soso.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\soso.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceri.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\ceri.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pear.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\pear.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_ok.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\button_ok.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semongko.jpg",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\semongko.jpg"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scabra.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\scabra.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seventhen.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\seventhen.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sgallo.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sgallo.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\elevenn.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\elevenn.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sdelfin.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\sdelfin.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scaballo.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\scaballo.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\merah.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\merah.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mas.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\mas.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\acierto.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\acierto.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spato.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\spato.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo9.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\fondo9.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shutdown.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\shutdown.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\Android\\kIDS1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bapak.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\bapak.png"
+    },
+    {
+        "merged": "F:\\Android\\kIDS1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\srana.png",
+        "source": "F:\\Android\\kIDS1\\app\\src\\main\\res\\drawable\\srana.png"
+    }
+]

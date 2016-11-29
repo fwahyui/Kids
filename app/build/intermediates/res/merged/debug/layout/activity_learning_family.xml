@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kids_learningback"
+    android:gravity="center|bottom"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton1Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/bapak" />
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton2Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ibu" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton3Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/kakek"/>
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/nenek" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button5"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/mas" />
+
+            <ImageButton
+                android:id="@+id/button6"
+                android:layout_width="110dp"
+                android:layout_height="120dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/mbak" />
+
+        </TableRow>
+
+    </TableLayout>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="@drawable/fondo9"
+        android:onClick="onMainClick"
+        android:scaleType="fitCenter"
+        android:text="@string/toMainMenu" />
+
+
+</LinearLayout>

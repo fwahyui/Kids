@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kids_learningback"
+    android:gravity="center|bottom"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton1Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/a" />
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton2Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/b" />
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton3Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/c" />
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/d" />
+
+            <com.google.android.gms.ads.AdView android:id="@+id/adView"
+                                   android:layout_width="89dp"
+                                   android:layout_height="wrap_content"
+                                   ads:adUnitId="@string/admob_id_banner"
+                                   ads:adSize="BANNER"
+                tools:visibility="invisible" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+           <ImageButton
+               android:id="@+id/button5"
+               android:layout_width="70dp"
+               android:layout_height="50dp"
+               android:layout_margin="5dp"
+               android:background="@drawable/myboton"
+               android:contentDescription="@string/ContentImagen"
+               android:onClick="onButton5Click"
+               android:scaleType="fitCenter"
+               android:src="@drawable/e" />
+
+            <ImageButton
+                android:id="@+id/button6"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton6Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/f" />
+
+            <ImageButton
+                android:id="@+id/button7"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton7Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/g" />
+
+            <ImageButton
+                android:id="@+id/button8"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton8Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/h" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button9"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton9Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/i" />
+
+            <ImageButton
+                android:id="@+id/button10"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton10Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/j" />
+
+            <ImageButton
+                android:id="@+id/button11"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton11Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/k" />
+
+            <ImageButton
+                android:id="@+id/button12"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton12Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/l" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button13"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton13Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/m" />
+
+            <ImageButton
+                android:id="@+id/button14"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton14Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/n" />
+
+            <ImageButton
+                android:id="@+id/button15"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton15Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/o" />
+
+            <ImageButton
+                android:id="@+id/button16"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton16Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/p" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button17"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton17Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/q" />
+
+            <ImageButton
+                android:id="@+id/button18"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton18Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/r" />
+
+            <ImageButton
+                android:id="@+id/button19"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton19Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/s" />
+
+            <ImageButton
+                android:id="@+id/button20"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton20Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/t" />
+
+        </TableRow>
+             <TableRow
+            android:id="@+id/tableRow6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button171"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton21Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/u" />
+
+            <ImageButton
+                android:id="@+id/button181"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton22Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/v" />
+
+            <ImageButton
+                android:id="@+id/button191"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton23Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/w" />
+
+            <ImageButton
+                android:id="@+id/button201"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton24Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/x" />
+
+
+        </TableRow>
+              <TableRow
+            android:id="@+id/tableRow7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+             <ImageButton
+                android:id="@+id/button2011"
+                android:layout_width="30dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton25Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/y" />
+                  
+<ImageButton
+                android:id="@+id/button20101"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton26Click"
+                android:scaleType="fitCenter"
+                android:src="@drawable/z" />
+
+
+        </TableRow>
+    </TableLayout>
+           <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="@drawable/fondo9"
+        android:onClick="onMainClick"
+        android:scaleType="fitCenter"
+        android:text="@string/toMainMenu" />
+          
+
+</LinearLayout>
