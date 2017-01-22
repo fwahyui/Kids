@@ -19,15 +19,6 @@ public class OnetothenActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_onetothen);
-		// Buscar AdView como recurso y cargar una solicitud.
-		AdView adView = (AdView) this.findViewById(R.id.adView);
-		AdRequest adRequest = new AdRequest.Builder().build();
-		adView.loadAd(adRequest);
-		// Intersetial.
-		interstitial = new InterstitialAd(this);
-		interstitial.setAdUnitId(getString(R.string.admob_id_intt));
-		AdRequest adRequestInterstitial = new AdRequest.Builder().build();
-		interstitial.loadAd(adRequestInterstitial);
 	}
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {

@@ -76,7 +76,6 @@
         android:visibility="visible"
         android:layout_alignBaseline="@+id/numbersbtn"
         android:layout_alignBottom="@+id/numbersbtn"
-        android:layout_alignLeft="@+id/btnwarna"
         android:layout_alignStart="@+id/btnwarna" />
 
 </RelativeLayout>

@@ -37,17 +37,6 @@ public class GamealphabetActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_gamenumbers);
-		// Buscar AdView como recurso y cargar una solicitud.
-		AdView adView = (AdView) this.findViewById(R.id.adView);
-		AdRequest adRequest = new AdRequest.Builder().build();
-		adView.loadAd(adRequest);
-		// Intersetial.
-		interstitial = new InterstitialAd(this);
-		interstitial.setAdUnitId(getString(R.string.admob_id_intt));
-		AdRequest adRequestInterstitial = new AdRequest.Builder().build();
-		interstitial.loadAd(adRequestInterstitial);
-
-
 		button1 = (ImageButton) findViewById(R.id.button1);
 		button2 = (ImageButton) findViewById(R.id.button2);
 		button3 = (ImageButton) findViewById(R.id.button3);

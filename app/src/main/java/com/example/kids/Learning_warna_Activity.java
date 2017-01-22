@@ -10,7 +10,6 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
-
 public class Learning_warna_Activity extends Activity {
 	MediaPlayer mediaPlayer;
 	private InterstitialAd interstitial;

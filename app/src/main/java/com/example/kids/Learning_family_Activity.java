@@ -8,6 +8,7 @@ import android.view.KeyEvent;
 import android.view.View;
 public class Learning_family_Activity extends Activity {
 	MediaPlayer mediaPlayer;
+	@Override
 	protected void onCreate(Bundle savedInstanceState) 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_learning_family);
@@ -51,6 +52,18 @@ public class Learning_family_Activity extends Activity {
 		if (mediaPlayer != null)
 			mediaPlayer.stop();
 		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.nenek);
+		mediaPlayer.start();
+	}
+	public void onButton5Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.mas);
+		mediaPlayer.start();
+	}
+	public void onButton6Click(View view) {
+		if (mediaPlayer != null)
+			mediaPlayer.stop();
+		mediaPlayer = MediaPlayer.create(getBaseContext(), R.raw.mbak);
 		mediaPlayer.start();
 	}
 }

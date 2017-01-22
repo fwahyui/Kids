@@ -2,391 +2,535 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="58c0afd58bc9c8dfcf2af02b0a8883d73175196b">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0be1a8753689cd30a9c48978070cd0361444ab59.jar" />
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_2888eae7ce4120664928cbfc564ca6f3bb4ebaad\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_365c2c97148fcc1a4efd717c875f8d3571c8bccd.jar" />
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_d7a43f41b6d196841e3ff0faa3ebce68ab44a9f2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_26676a73ba6826e7c983f940a86ab08d312b8e71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_f2c0f86ba8fbbc6c15c2ae182fa0e894dbfe7384.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_b93cad0b14031e34b58af1722090d52110db7f75.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_4e1d6017dfd657124f7ef0c689109171976324e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_29b50fbb397fbe3b4911f5a876693928af334e49.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_b41347e1da28e533535d7e62e88c7f8dc14c36fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_952ff79c96e9db2a346c8337deb6ea5d019081be.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_abd08111b629df3387bee209cc724f20318d4a39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_62fe058183dbf3fda69e03a8dd08a689888d1996.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_b5918bc558f5bfde0388117b3074eb164ee7a9c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_16c39fff0720173d26cbd58e3fea98ab4ae85c29.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="c8f631dabe740714ef07dbcc8decdf9b7bb604c1">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\instant-run_7f0d4a28923d6e0984924c000e70eb212a8f8579.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_3f98bdbeaa13ebbb50a2e82cb413beb41859288a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_920c54a3f87091e070498a86b10acd1ccd2b8679.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_c4f911596b1f83f31b7e8c8bbb8a67fde53a0e3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_bdd8ecac423a73b7e2b58374222d912b573f8489.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_d24e88cc97301978b796d4773d68e128c6d93a0d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_bbd51d913a55df0e2e2bbe21181303f536378cc9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_61e11cd04abc47ea5a891c7006ef932de7c70c9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_568596ff065d1d8ef918b42acaa689dc3d8bc5a5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_da544117927acdf8f873d1c8ac3daa3cfdfd631d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_61b9e94cbabb42909b84ba5d99a2c96382d88247.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_3b19dcdf647909404d937c9cc61a9a5e9e49a5d5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bafd21c5e2d09584ff30793801bf0d02c78fc044">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0be1a8753689cd30a9c48978070cd0361444ab59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_b41347e1da28e533535d7e62e88c7f8dc14c36fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_532305dd838b4491711495904168e910548655b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1.jar" />
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_adac3ca1723f0c63be74475bca01f4b93803e624\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_f2c0f86ba8fbbc6c15c2ae182fa0e894dbfe7384.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a4c979e55b0fd4f741fc2e09da73229eff591951">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\instant-run_7f0d4a28923d6e0984924c000e70eb212a8f8579.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_920c54a3f87091e070498a86b10acd1ccd2b8679.jar" />
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_de2ba053d3343df945e4b725cc8466fb69431370\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_196c30f451f718bd750858109790c61b927cdfca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_17ff11a0dcf8027fbefd0b273c8b5730a0d0fbec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_b8e7a5f27ca5236a3d3bbe2099546c7ffa6ee26c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_59c81f9d6cbabcb5430c8f4afbce2c63f1376b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_b734d824969fce09d84258018c889eda9305d04e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_281a3eb8e82f322706dcccc8602d36ae70852e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_5a0bc334fb1155ec88d52a08f7ab7bb76f90b9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_06fed83a438c3e2ca3e0dd82895509eff94396ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b06cceb599f740882bf77028ecca7a637d17db12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_900cf0afdaa8ab823d173e0dda2134b67f3a5f07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_10d18dbfe7ff71eda078600eb8ecc9c3d555f2ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_a7a8cb3456348ddbd710b8d2e3b219275142d33e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_f5522c1f5ff6520eb171d6ab01fdf2632c64800e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_a2af11c419a2a4bdf140d536ae550a43545f3416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_312fce27f25ba04c7bd9848e2b46f34c3be15688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_cef21d319c3c95d3602921c6a99a5ebdbcb4efa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_dc443f1ff43a1b71ec7b411e99a2151f367dd393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_66f7b4cde800899e64d45e4f3e71b44187ef8af0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="36f45585434c024cd786c180975b178ba2475fcb">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6119ff10523a1159a06779eb2551e60d33ea3678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_d5923b442a01f2f5594d6bb05ea9eaaf28d218b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_b708238783cd544516527ee53a89c8608545a9f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_1ac440d7d99d254b79c23520f3b2374bd7fa892f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_3fb32ebbbdde0e9e445e52ed1621662ae219ad58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_e2f06c72db0e28a20127029e7b00fc19cb331a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_d717b7cb271fd11c58f3e3ec6fbf2b2139b11fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_1a5f4358f064e0b99f297d5782c5a6f20f605676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_05baee138229fb42b12b976d8b417e4d19ed78fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_abd08111b629df3387bee209cc724f20318d4a39.jar" />
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_bb089a5c967d9aa7499d94ff77e5c8f0a509c4be\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_0e4e34a1d54f3d4970343c4019d6c55ba0b711b7.jar" />
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_cd22c095c9b0749ce1a7c695c402d55f23b883cb\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_16c39fff0720173d26cbd58e3fea98ab4ae85c29.jar" />
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_81eac7c754b9dd699f3a3a83dee7f431e94f264d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_4c75c152bd6a726703981d8081d9871e1f3455f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_add024efdb362f072294d1f72302f276fb3c4bb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc1935d3526e98bbe0274a99fe05dd11dad421b9">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dde0ac929f22558cb8de1459cc8437188a42ec2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_2a0ab5cdf9b78a3ed11113acdbeb1208a124cf8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_6ccb4f27d3af18d331059d3692a59dd2db4b9717\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_c4f9253e309ba93017df6b8bbead978ff2d7c6c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_b5918bc558f5bfde0388117b3074eb164ee7a9c9.jar" />
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_1e6c7b5592f3eddb8b2f4be079dc1bc936b5058d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_4ba7e087fa61f0ecb11ca7b72b25f430c934f1bf.jar" />
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_cd11d46f2a203efcb4b8b884e19e9c2ba44b0f60\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_ce7852a4a171fa75a87527f4450b16f1559f6359.jar" />
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_24abec00f6775f1fec296022270fef59e5e5cd04\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_2d0d008654c6351176e9feaca68f5de75345cbfe.jar" />
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_db0a139ee9c94caa85c4587d3c48b21fe7667e10\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_9491c4360588306012f2f179e76ba60f56f29d1b.jar" />
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_7f5b70acd231b19c7a80068bb3b2fd3b8f5356fb\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_417e67e7a3548da2483f3c01e75a675fd49910cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="F:\Android\kIDS1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_3b19dcdf647909404d937c9cc61a9a5e9e49a5d5.jar" />
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_162e62bab13fe22163ac79d89079e149e12692a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_9475d41f5a86e4954a46fbada6499d832323f8da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_4398cdbf2ecf56d3fdfbe2373cf33118aa8539eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_0ea8930b32205b339b00863ae9875c23acc5f50e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_3ec61c6a599b71758d88f4e0b369f00afcfc6b1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_a4bda9996ded164abe53fb5007bccb8aed1d0ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_0bf47c703b83b10c602fb0911c5dd3131c135a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4eba46d3cb9fb57822ab82ec16be3567a183b45a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_e8c0e6260a88f269a73870cac39c00d418709a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_365c140dadd8404d11e9a28532226ea3a0a712ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_d6a982fd1bfc1d8191bba080fa7871a8f496ff21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9c88ad836430e7c7bcfd030ec8951eb4da4621f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_b55eaf9404729e49de04c08514f0b1ec8632d1c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\kIDS1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\Android\kIDS1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_674bef5a1ec0517405f4568516b9817d7e04be48\classes.dex" />
     </item>
 
 </items>

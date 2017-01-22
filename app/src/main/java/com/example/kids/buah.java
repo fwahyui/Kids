@@ -20,6 +20,11 @@ public class buah extends Activity
         startActivity(intent);
         this.finish();
     }
+    public void GameClick(View view) {
+        Intent intent = new Intent(this, GameBuahActivity.class);
+        startActivity(intent);
+        this.finish();
+    }
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event)
     {

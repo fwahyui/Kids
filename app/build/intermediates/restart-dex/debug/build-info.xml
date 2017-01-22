@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86,armeabi-v7a"
-    api-level="19"
-    density="hdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="9859662407560"
-    token="1303613563715652229"
+    plugin-version="2.2.3"
+    timestamp="8610853988930"
+    token="2235591153616317054"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -23,14 +23,14 @@
         duration="0" />
 
     <artifact
-        location="F:\Android\kIDS1\app\build\outputs\apk\app-debug.apk"
+        location="D:\Android\kIDS1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="30171798966701"
+        timestamp="8610853988930"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\Android\kIDS1\app\build\outputs\apk\app-debug.apk"
+            location="D:\Android\kIDS1\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

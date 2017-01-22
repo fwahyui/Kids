@@ -16,7 +16,6 @@ import android.content.DialogInterface;
 public class MainActivity extends ActionBarActivity {
 	private final int SPLASH_DISPLAY_LENGTH = 1000;
 	private InterstitialAd interstitial;
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		

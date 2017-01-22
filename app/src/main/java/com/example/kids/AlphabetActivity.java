@@ -1,9 +1,6 @@
 package com.example.kids;
 
 import com.google.android.gms.ads.*;
-
-
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,15 +13,7 @@ public class AlphabetActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_alphabet);
-		// Buscar AdView como recurso y cargar una solicitud.
-				AdView adView = (AdView) this.findViewById(R.id.adView);
-				AdRequest adRequest = new AdRequest.Builder().build();
-				adView.loadAd(adRequest);
-				// Intersetial.
-				interstitial = new InterstitialAd(this);
-				interstitial.setAdUnitId(getString(R.string.admob_id_intt));
-				AdRequest adRequestInterstitial = new AdRequest.Builder().build();
-				interstitial.loadAd(adRequestInterstitial);
+
 	}
 	public void gameClick(View view) {
 		Intent intent = new Intent(this, LearningalphabetActivity.class);

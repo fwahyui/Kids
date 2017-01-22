@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_gamenumbers"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+     <com.google.android.gms.ads.AdView android:id="@+id/adView"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         ads:adUnitId="@string/admob_id_banner"
+                         ads:adSize="BANNER"/>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.75" >
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="0.89"
+                android:text="@string/activity_gamenumbers"
+                android:textSize="@dimen/abc_dropdownitem_icon_width"
+                android:layout_width="130dp" />
+
+            <TextView
+                android:id="@+id/scoretxt"
+                android:layout_weight="0.89"
+                android:text="0"
+                android:textSize="@dimen/abc_dropdownitem_icon_width"
+                android:layout_width="100dp" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton1Click"
+                android:scaleType="fitCenter" />
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton2Click"
+                android:scaleType="fitCenter" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton3Click"
+                android:scaleType="fitCenter" />
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter" />
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/fondo9"
+        android:onClick="onMainClick"
+        android:scaleType="fitCenter"
+        android:text="@string/toMainMenu" />
+
+</LinearLayout>

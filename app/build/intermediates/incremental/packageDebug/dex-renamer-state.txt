@@ -1,4 +1,7 @@
-#Mon Nov 21 13:41:58 ICT 2016
-base.0=F\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=F\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sun Jan 08 17:01:05 ICT 2017
+base.0=D\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6119ff10523a1159a06779eb2551e60d33ea3678
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dde0ac929f22558cb8de1459cc8437188a42ec2f\\classes.dex
+base.1=D\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dde0ac929f22558cb8de1459cc8437188a42ec2f
+file.0=D\:\\Android\\kIDS1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6119ff10523a1159a06779eb2551e60d33ea3678\\classes.dex

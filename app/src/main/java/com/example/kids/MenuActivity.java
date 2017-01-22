@@ -27,7 +27,7 @@ public class MenuActivity extends Activity {
 		this.finish();
 	}
 	public void BuahClick(View view) {
-		Intent intent = new Intent(this, LearningbuahActivity.class);
+		Intent intent = new Intent(this, buah.class);
 		startActivity(intent);
 		this.finish();
 	}
